@@ -7,7 +7,6 @@ A simple RESTful API for managing books in a library. This project is built with
 - Java 17+
 - Spring Boot
 - Spring Data JPA
-- H2 Database (or any other JPA-compatible database)
 - Maven
 - MySQL
 - Postman
